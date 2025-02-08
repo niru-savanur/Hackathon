@@ -1,0 +1,13 @@
+Welcome to our app!
+We begin at the login page, where the user enters their username and password to access the platform.
+After logging in, we arrive at the home page. The screen is divided into two sections:
+On the left side, we are simulating the user's location.
+On the right side, we can see real-time updates reflecting these changes in the app.
+As we hover over the marked icons on the map, details about the respective malls are displayed.
+Next, let's explore the search functionality. In the search bar, we can type the name of any mall, and the app will instantly provide relevant results.
+Now, if we simulate the user’s location to be near a mall, the app automatically displays nearby malls. For each mall, it shows:
+The distance from the user’s current location.
+A random offer featured at the top.
+Users can also expand specific categories to view detailed store offers within that category.
+At the bottom of the screen, there's an additional search functionality that allows users to look up other malls and compare offers with nearby malls.
+Finally, based on user interactions within the app, we can utilize Generative AI to provide personalized offers. Currently, this feature is limited to tracking the number of clicks within the app.
